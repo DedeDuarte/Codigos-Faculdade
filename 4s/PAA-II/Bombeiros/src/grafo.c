@@ -29,8 +29,8 @@ void freeGrafo(Node** grafo, int tamanho_grafo) {
     free(grafo);
 }
 
-void printGrafo(Node** grafo, int grafo_size) {
-    for (int i = 0; i < grafo_size; i++) {
+void printGrafo(Node** grafo, int tamanho_grafo) {
+    for (int i = 0; i < tamanho_grafo; i++) {
         printf("Esquina %d", i+1);
         Node* atual = grafo[i];
         while(atual) {

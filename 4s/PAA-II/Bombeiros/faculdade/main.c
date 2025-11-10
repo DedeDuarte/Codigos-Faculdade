@@ -13,7 +13,7 @@
  *          Utiliza Dijkstra para encontrar o caminho mínimo.
  * 
  * @note Repositório no GitHub do projeto. Lá está mais bem separado, com arquivos header e tudo mais:
- * https://github.com/DedeDuarte/Codigos-Faculdade/tree/b2ecca474989907f925c0e0c420601f7fc3761e6/4s/PAA-II/Bombeiros
+ * https://github.com/DedeDuarte/Codigos-Faculdade/tree/53c36ea5aab39ee4cf42d1fee7fb87f3d22fb947/4s/PAA-II/Bombeiros
  */
 
 #include <stdio.h>
