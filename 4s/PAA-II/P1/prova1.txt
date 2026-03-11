@@ -1,0 +1,11 @@
+Prova 1: Projeto e Analize de Algorítmos II - Recurção
+
+1. Complexidade O(n)
+A e B
+
+2. Teorema Mestre, resolva recorrência, divisão e conquista
+A e B
+
+3. Formula recursiva -> Escreva a função recursiva em C
+
+4. BackTrack
