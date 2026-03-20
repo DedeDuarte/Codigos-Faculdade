@@ -61,6 +61,8 @@ int main() {
         pthread_join(threads[i], NULL);
     }
 
+    pthread_mutex_destroy(&mutex);
+
     // Calculo iterativo
     long long esp = 0;
     for (int i = 0; i < VEC_MAX; i++) {
